@@ -36,6 +36,6 @@ $name=$b['name'];
 </div>
 </body>
 <!-- 
-Designed &amp; Developed by Nishant & Sajal
+Designed &amp; Developed by Nishant Amar
 -->
 </html>
