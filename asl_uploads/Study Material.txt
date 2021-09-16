@@ -1,0 +1,69 @@
+1. Which of the following Software includes FTP Server Package?
+A. WAMP
+B. XAMPP
+C. Both
+D. None of these
+Ans: B
+
+2. PHP Stands for ?
+A. Personal Hyper Page
+B. Hypertext Preprocessor
+C. Personal HTML Page
+D. Hypertext Pages
+Ans: B
+
+3. Select the correct syntax to include PHP Code
+A. <?php -- ?>
+B. <<php -- >>
+C. <!?php -- ?!>
+D. None of these
+Ans: A
+
+4. Select the correct statement(s) to use <h1> with PHP
+A. <?php echo "<h1>Hello World</h1>";?>
+B. <?php echo <h1>Hello World;?></h1>
+C. Both A & B
+D. None of these
+Ans: A
+
+5. In which year PHP was created
+A. 1993
+B. 1994
+C. 1995
+D. 1996
+Ans: B
+
+6. Select the correct statement(s) regarding XML Namespace
+A. XML Namespace is a mechanism by which element or attribute is assigned to a group
+B. XML Namespace is used to avoid the name conflicts in the XML document
+C. XML Namespace is recommended by W3C
+D. All of these
+Ans: D
+
+7. Select the correct statement from the following
+A. PHP is a Server Side Scripting Language
+B. PHP is a Client Side Scripting Language
+C. PHP is used to Flash Integrated Circuits
+D. All of these
+Ans: A
+
+8. PHP Programming Language is similar to 
+A. PERL
+B. IIS
+C. Apache
+D. SQL
+Ans: A
+
+9. PHP variable starts with
+A. #
+B. $
+C. %
+D. @
+Ans: B
+
+10. What is the correct way to end PHP statement
+A. ;
+B. .
+C. </php>
+D. <br>
+Ans: A
