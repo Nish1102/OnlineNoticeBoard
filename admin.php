@@ -33,6 +33,6 @@ if(!isset($_SESSION['admin']))
 
 </body>
 <!-- 
-Designed &amp; Developed by Nishant & Sajal
+Designed &amp; Developed by Nishant
 -->
 </html>
