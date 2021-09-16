@@ -63,8 +63,6 @@ elseif($p1!=$p2)
 </div>
 </body>
 <!-- 
-Designed &amp; Developed by Ashish Vegan
-www.ashishvegan.com | technologyvegan@gmail.com | +919890345539
-Sharing this source code is strictly Prohibited | Subscribe YouTube Channel "Tech Vegan"
+Designed &amp; Developed by Nishant Amar
 -->
 </html>
