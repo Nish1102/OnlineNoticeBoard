@@ -106,6 +106,6 @@ function MM_validateForm() { //v4.0
 </div>
 </body>
 <!-- 
-Designed &amp; Developed by Nishant & Sajal
+Designed &amp; Developed by Nishant Amar
 -->
 </html>
